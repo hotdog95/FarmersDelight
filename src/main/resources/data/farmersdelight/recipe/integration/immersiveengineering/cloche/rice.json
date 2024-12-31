@@ -11,7 +11,7 @@
   },
   "render": {
     "type": "immersiveengineering:crop",
-    "value": "farmersdelight:rice_panicles"
+    "block": "farmersdelight:rice_panicles"
   },
   "results": [
     {
