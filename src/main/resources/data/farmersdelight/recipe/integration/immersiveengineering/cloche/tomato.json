@@ -11,7 +11,7 @@
   },
   "render": {
     "type": "immersiveengineering:crop",
-    "value": "farmersdelight:tomatoes"
+    "block": "farmersdelight:tomatoes"
   },
   "results": [
     {
